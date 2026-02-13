@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "asdsa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "asdsa"
             }
           }
         ],
@@ -196,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3a6d37638b767ce",
+  "active": "cabb12117cfe29e2",
   "lastOpenFiles": [
-    "test.md",
     "README.md",
-    "conflict-files-obsidian-git.md",
-    "asdsa.md"
+    "asdsa.md",
+    "test.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
