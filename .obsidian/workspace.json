@@ -11,10 +11,14 @@
             "id": "3c212ee614557974",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "README"
             }
           }
         ]
@@ -177,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cabb12117cfe29e2",
+  "active": "3c212ee614557974",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "asdsa.md",
+    "conflict-files-obsidian-git.md",
     "README.md"
   ]
 }
