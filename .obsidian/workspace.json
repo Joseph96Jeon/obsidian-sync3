@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asdsa.md",
+                "file": "00-Inbox/asdsa.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asdsa.md",
+                "file": "00-Inbox/asdsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asdsa.md",
+                "file": "00-Inbox/asdsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asdsa.md",
+                "file": "00-Inbox/asdsa.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -186,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adec7f6df6c220fd",
+  "active": "e9913b66513aa7fc",
   "lastOpenFiles": [
     "README.md"
   ]
